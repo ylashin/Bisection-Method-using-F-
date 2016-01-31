@@ -1,4 +1,4 @@
-# Bisection Method using F#
+# Bisection Method using FSharp
 Solves a polynomial equation using bisection method. It is just a small app to get familiar with F# concepts
 Highlights:
 - Implementing bisection algorithm in an immutable approach
